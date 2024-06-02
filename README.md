@@ -5,8 +5,8 @@ This api exists for the sole purpose of processing text answers provided by user
 
 ### Metrics
 - [x] Sentence Similarity
-- [ ]Logical Similarity
-- [ ]Grammatical Correctness
+- [ ] Logical Similarity
+- [ ] Grammatical Correctness
 
 ### API Completeness
 - [ ] Token management
