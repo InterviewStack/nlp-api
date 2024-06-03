@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "InterviewStackNLPAPI",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
